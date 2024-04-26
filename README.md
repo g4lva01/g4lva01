@@ -1,5 +1,5 @@
 
-  [![Matrix SVG](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h1 align="center">👋 Olá, eu sou Gabriel Galvão</h1>
 
 <p align="center">
