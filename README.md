@@ -22,21 +22,11 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![Linkedin: Gabriel](https://img.shields.io/badge/-GabrielGalvão-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-g4lva0)](https://www.linkedin.com/in/gabriel-g4lva0/) <br><br>
 
 ### 📊 Estatísticas
-<p>
-  <img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=g4lva01&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-  <img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4lva01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+ <div>
+  <a href="https://github.com/g4lva01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g4lva01&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4lva01&layout=compact&langs_count=7&theme=gotham"/>
+</div>
 
 <br clear="both"/><br clear="both"/>
 
